@@ -1,0 +1,38 @@
+{
+  "name": "@firepot/default-token-list",
+  "version": "2.0.0",
+  "description": "◦ The Firepot Finance default token list",
+  "main": "build/uniswap-default.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/firepot-default.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/firepot-default.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firepotfinance/default-token-list.git"
+  },
+  "keywords": [
+    "firepot",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Sebn",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/firepotfinance/default-token-list/issues"
+  },
+  "homepage": "https://github.com/firepotfinance/default-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
