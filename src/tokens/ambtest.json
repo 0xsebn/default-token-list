@@ -10,7 +10,7 @@
   {
     "name": "USD Coin",
     "address": "0x1242BDB8DD53f8ca7126d46271Dc59FD7C71C856",
-    "symbol": "SAMB",
+    "symbol": "USDC",
     "decimals": 6,
     "chainId": 22040,
     "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"

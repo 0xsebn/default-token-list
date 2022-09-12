@@ -6,13 +6,5 @@
     "decimals": 18,
     "chainId": 16718,
     "logoURI": "https://media-exp1.licdn.com/dms/image/C560BAQFuR2Fncbgbtg/company-logo_200_200/0/1636390910839?e=2159024400&v=beta&t=W0WA5w02tIEH859mVypmzB_FPn29tS5JqTEYr4EYvps"
-  },
-  {
-    "name": "USD Coin",
-    "address": "0x1242BDB8DD53f8ca7126d46271Dc59FD7C71C856",
-    "symbol": "SAMB",
-    "decimals": 6,
-    "chainId": 16718,
-    "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
   }
 ]
