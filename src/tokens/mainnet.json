@@ -1,13 +1,5 @@
 [
   {
-    "name": "Synthetic Amber",
-    "address": "0x2b2d892C3fe2b4113dd7aC0D2c1882AF202FB28F",
-    "symbol": "SAMB",
-    "decimals": 18,
-    "chainId": 16718,
-    "logoURI": "https://media-exp1.licdn.com/dms/image/C560BAQFuR2Fncbgbtg/company-logo_200_200/0/1636390910839?e=2159024400&v=beta&t=W0WA5w02tIEH859mVypmzB_FPn29tS5JqTEYr4EYvps"
-  },
-  {
     "name": "USD Coin",
     "address": "0x290998B7B5589AFdc4E3f3c7eF817F05dcDEC947",
     "symbol": "USDC",
