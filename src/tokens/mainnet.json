@@ -3,7 +3,7 @@
     "name": "USD Coin",
     "address": "0x290998B7B5589AFdc4E3f3c7eF817F05dcDEC947",
     "symbol": "USDC",
-    "decimals": 6,
+    "decimals": 18,
     "chainId": 16718,
     "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
   }
